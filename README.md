@@ -37,7 +37,7 @@ Case, plate, and PCB all together. I couldn't put the 3D file of the PCB in Onsh
 
 # BOM
 
-16x Cherry MX Switches
+16x MX Switches
 
 1x XIAO RP2040
 
