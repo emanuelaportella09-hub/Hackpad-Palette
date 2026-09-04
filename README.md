@@ -43,9 +43,9 @@ Case, plate, and PCB all together. I couldn't put the 3D file of the PCB in Onsh
 
 16x Differently Colored DSA Keycaps
 
-3x M3x16 Bolt
+4x M3x16 Bolt
 
-3x M3 Heatset
+4x M3 Heatset
 
 1x 0.91" 128x32 OLED Display
 
