@@ -34,3 +34,59 @@ Case and plate
 Case, plate, and PCB all together. I couldn't put the 3D file of the PCB in Onshape because it was buggy for some reason, so I decided to put a rectangle inside with the same measurements as the board instead.
 
 <img width="1414" height="805" alt="Screenshot 2026-09-04 162830" src="https://github.com/user-attachments/assets/40ff783e-52cb-4514-ac71-5afc9c98a4b6" />
+
+# BOM
+
+16x Cherry MX Switches
+
+1x XIAO RP2040
+
+16x Differently Colored DSA Keycaps
+
+3x M3x16 Bolt
+
+3x M3 Heatset
+
+1x 0.91" 128x32 OLED Display
+
+16x Through-hole 1N4148 Diodes
+
+1x Case.step in PRODUCTION FOLDER needs to be 3d printed
+
+1x Plate.step in PRODUCTION FOLDER needs to be 3d printed
+
+
+
+
+
+
+
+
+#**EXTRA NEDDED:**
+
+Soldering Iron
+
+My firmware
+
+Arduino IDE installed on a computer
+
+AutoHotKey installed on a computer
+
+
+
+
+
+
+
+
+
+
+
+
+#**TESTING:**
+
+Few Jump Wires
+
+Breadboard
+
+Usb-c to usb cable
