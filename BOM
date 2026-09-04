@@ -1,5 +1,5 @@
-***BOM***
-___________________________________________________________
+# BOM
+
 16x Cherry MX Switches
 1x XIAO RP2040
 16x Differently Colored DSA Keycaps
@@ -12,14 +12,14 @@ ___________________________________________________________
 
 
 
-**EXTRA NEDDED:**
+** EXTRA NEDDED: **
 Soldering Iron
 My firmware
 Arduino IDE installed on a computer
 AutoHotKey installed on a computer
 
 
-**TESTING:**
+** TESTING: **
 Few Jump Wires
 Breadboard
 Usb-c to usb cable
