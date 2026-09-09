@@ -1,0 +1,17 @@
+Item,Component / Part,Quantity,Category,Notes
+1,MX Switches,16,Hardware / Component,Key switches
+2,XIAO RP2040,1,Microcontroller,Main MCU board
+3,DSA Keycaps (Differently Colored),16,Hardware,Keycaps
+4,M3x16 Bolt,4,Fastener,Hardware mounting
+5,M3 Heatset Insert,4,Fastener,3D print insert
+6,"0.91"" 128x32 OLED Display",1,Display,I2C OLED screen
+7,1N4148 Diodes (Through-hole),16,Electronic Component,Switch matrix diodes
+8,Case.step,1,3D Print,Located in PRODUCTION FOLDER (Needs 3D printing)
+9,Plate.step,1,3D Print,Located in PRODUCTION FOLDER (Needs 3D printing)
+10,Soldering Iron,1,Extra Needed / Tool,Assembly tool
+11,Firmware,1,Software / Code,Custom keyboard firmware
+12,Arduino IDE,1,Software,Installed on computer
+13,AutoHotKey,1,Software,Installed on computer
+14,Jump Wires,1,Testing Equipment,Few wires for breadboarding
+15,Breadboard,1,Testing Equipment,For testing before soldering
+16,USB-C to USB Cable,1,Testing Equipment / Cable,Power and data connection
